@@ -15,6 +15,9 @@ export const metadata: Metadata = {
     description: "Motivated Full Stack Developer with expertise in MERN stack",
     type: "website",
   },
+  icons: {
+    icon: '/favicon.png',
+  },
 };
 
 export default function RootLayout({
